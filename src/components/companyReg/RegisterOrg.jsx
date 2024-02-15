@@ -1,10 +1,6 @@
-
+import styles from "./RegisterOrg.module.css";
 const RegisterOrg = () => {
-  return (
-    <div>
-      RegisterOrg
-    </div>
-  )
-}
+  return <div>RegisterOrg</div>;
+};
 
-export default RegisterOrg
+export default RegisterOrg;
